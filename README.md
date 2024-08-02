@@ -24,24 +24,19 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Description:** 
 
-**Skills:** 
+**Skills:** data cleaning, data analysis, data visualization
+**Technology:** Python, Pandas, Numpy, Matplotlib
 
-**Technology:** 
-
-**Results:** 
-
-### Analyzing HR Deparment Data on Employees 
+### Analyzing HR Department Data on Employees 
 **Code:** 
 
 **Goal:** 
 
 **Description:** 
 
-**Skills:** 
+**Skills:** data cleaning, converting data types, subquaries, data analysis, data visualization
 
-**Technology:** 
-
-**Results:** 
+**Technology:** SQL Server, Power BI
 
 ## Education
 
