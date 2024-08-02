@@ -19,7 +19,7 @@ I am a passionate Chemical Engineering graduate with a strong foundation in ener
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Analyzing CO2 Emissions Around The World
-**Code:** 
+**Code:** [CO2 Emission](https://github.com/Septerm/Data-Analysis-Portfolio/tree/main/CO2%20Emissions%20Project)
 
 **Goal:** 
 
