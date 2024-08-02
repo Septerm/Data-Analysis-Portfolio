@@ -21,9 +21,7 @@ In this section I will list data analytics projects briefly describing the techn
 ### Analyzing CO2 Emissions Around The World
 **Code:** [CO2 Emission](https://github.com/Septerm/Data-Analysis-Portfolio/tree/main/CO2%20Emissions%20Project)
 
-**Goal:** 
-
-**Description:** 
+**Goal:** The goal of this project is to identify the top countries responsible for CO2 emissions and determine the Caribbean region's impact on global emissions. By performing a data analysis using Python, this project aims to provide valuable insights that can help environmentalists, climate change activists, and policymakers better understand how emissions are produced globally and identify which activities play a crucial role in CO2 emissions. Additionally, it aims to show the negligible impact the Caribbean has on global CO2 emissions, despite experiencing substantial effects of climate change due to these emissions.
 
 **Skills:** data cleaning, data analysis, data visualization
 
@@ -31,10 +29,6 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Analyzing HR Department Data on Employees 
 **Code:** 
-
-**Goal:** 
-
-**Description:** 
 
 **Skills:** data cleaning, converting data types, subquaries, data analysis, data visualization
 
