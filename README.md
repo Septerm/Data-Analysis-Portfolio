@@ -1,5 +1,6 @@
 # Garion Charles - Data Analyst Portfolio
 ## About
+I am a passionate Chemical Engineering graduate with a strong foundation in energy-related technologies, particularly focused on research, modeling/simulation, technical report writing, and effective interpersonal communication. My goal is to contribute my knowledge and skills to the dynamic and ever-evolving energy industry, and I am excited to connect with professionals and opportunities in this field.
 
 ## Table of Contents
 - [About](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#about)
@@ -25,6 +26,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** 
 
 **Skills:** data cleaning, data analysis, data visualization
+
 **Technology:** Python, Pandas, Numpy, Matplotlib
 
 ### Analyzing HR Department Data on Employees 
