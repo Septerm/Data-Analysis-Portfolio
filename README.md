@@ -2,17 +2,17 @@
 ## About
 
 ## Table of Contents
-- [About](https://github.com/Septerm/Data-Analysis-Portfolio/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/Septerm/Data-Analysis-Portfolio/edit/main/README.md#portfolio-projects)
+- [About](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing CO2 Emissions Around The World]()  
   - SQL
     - [Analyzing HR Deparment Data on Employees]()
   - Power BI
     - [Analyzing HR Deparment Data on Employees]()
-- [Education](https://github.com/Septerm/Data-Analysis-Portfolio/edit/main/README.md#education)  
-- [Certificates](https://github.com/Septerm/Data-Analysis-Portfolio/edit/main/README.md#certificates)
-- [Contact](https://github.com/Septerm/Data-Analysis-Portfolio/edit/main/README.md#contact)
+- [Education](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#contact)
   
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
