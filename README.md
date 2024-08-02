@@ -5,11 +5,11 @@
 - [About](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing CO2 Emissions Around The World]()  
+    - [Analyzing CO2 Emissions Around The World](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#analyzing-co2-emissions-around-the-world)  
   - SQL
-    - [Analyzing HR Deparment Data on Employees]()
+    - [Analyzing HR Deparment Data on Employees](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#analyzing-hr-department-data-on-employees)
   - Power BI
-    - [Analyzing HR Deparment Data on Employees]()
+    - [Analyzing HR Deparment Data on Employees](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#analyzing-hr-department-data-on-employees)
 - [Education](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#contact)
