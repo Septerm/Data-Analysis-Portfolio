@@ -11,6 +11,7 @@ I am a passionate Chemical Engineering graduate with a strong foundation in ener
     - [Methane Emissions Analysis](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#global-methane-emissions-analysis)
     - [Analyzing HR Deparment Data on Employees](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#analyzing-hr-department-data-on-employees)
   - Power BI
+    - [Methane Emissions Analysis](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#global-methane-emissions-analysis)
     - [Analyzing HR Deparment Data on Employees](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#analyzing-hr-department-data-on-employees)
 - [Education](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#certificates)
@@ -29,7 +30,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Python, Pandas, Numpy, Matplotlib
 
 ### Global Methane Emissions Analysis  
-**Code:** [Methane Emissions Project](https://github.com/Septerm/Data-Analysis-Portfolio/tree/main/HR%20Employee%20Data)
+**Code:** [Methane Emissions Project](https://github.com/Septerm/Data-Analysis-Portfolio/tree/main/Methane_Global_Emissions)
 
 **Goal:** The goal of this project is to identify the top countries responsible for Methane Emissions and determine the Key Sectors that contribute to methane emissions. By performing a data analysis using SQL, this project aims to provide valuable insights that can help environmentalists, climate change activists, and policymakers better understand how Methane emissions are produced globally and identify which activities play a crucial role in Methane Emissions.
 
