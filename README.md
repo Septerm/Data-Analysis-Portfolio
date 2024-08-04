@@ -8,6 +8,7 @@ I am a passionate Chemical Engineering graduate with a strong foundation in ener
   - Python
     - [Analyzing CO2 Emissions Around The World](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#analyzing-co2-emissions-around-the-world)  
   - SQL
+    - [Methane Emissions Analysis](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#global-methane-emissions-analysis)
     - [Analyzing HR Deparment Data on Employees](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#analyzing-hr-department-data-on-employees)
   - Power BI
     - [Analyzing HR Deparment Data on Employees](https://github.com/Septerm/Data-Analysis-Portfolio/blob/main/README.md#analyzing-hr-department-data-on-employees)
@@ -26,6 +27,15 @@ In this section I will list data analytics projects briefly describing the techn
 **Skills:** data cleaning, data analysis, data visualization
 
 **Technology:** Python, Pandas, Numpy, Matplotlib
+
+### Global Methane Emissions Analysis  
+**Code:** [Methane Emissions Project](https://github.com/Septerm/Data-Analysis-Portfolio/tree/main/HR%20Employee%20Data)
+
+**Goal:** The goal of this project is to identify the top countries responsible for Methane Emissions and determine the Key Sectors that contribute to methane emissions. By performing a data analysis using SQL, this project aims to provide valuable insights that can help environmentalists, climate change activists, and policymakers better understand how Methane emissions are produced globally and identify which activities play a crucial role in Methane Emissions.
+
+**Skills:** data cleaning, converting data types, subquaries, data analysis, data visualization
+
+**Technology:** SQL Server, Power BI
 
 ### Analyzing HR Department Data on Employees 
 **Code:** [HR Department Employee Data Project](https://github.com/Septerm/Data-Analysis-Portfolio/tree/main/HR%20Employee%20Data)
